@@ -49,11 +49,7 @@ Check in browser on http://localhost:8080/
 
 <p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
 
-<h2 align= "center"><b>Project Maintainer</b></h2>
-<p align="center">
-<img width=20% src="https://avatars1.githubusercontent.com/u/14235781?s=400&u=04e682f0022b55e24740ebd9ed4a22dd9f1b95cd&v=4">
-</p>
-<p align="center"><a href="https://github.com/DEVAbhinav"><b>Abhinav Pandey</b></h4></a></p>
+
 <h5 align="center">
 Made with 💖 for Kashi
 </h5>
